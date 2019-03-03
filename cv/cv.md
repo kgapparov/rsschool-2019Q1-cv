@@ -1,2 +1,0 @@
-#*Khassangali Gapparov*
-##software Engineer
