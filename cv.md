@@ -2,92 +2,69 @@ Khassangali Gapparov
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Address: Kasazkhstan Astana 10000
+Mobile: hasangaly@gmail.com
+linkedin: www.linkedin.com/in/khassangali
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2003-2014
+:   **Security Engineer**; Almaty University of Energy and Communication (Almaty)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Organization and Integration Information security systems*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**KazAirNavigation:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Technical lead IT department. Responsible for stable and relible service 
+delivering in our company. Maintain Data Center and organize and integrate 
+all services with companies business models. 
 
-* First item
+* Corporate services: 
+	* IP ATS
+	* Network Infrastructure 
+	* Infrustructure Security
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**National Informational Technologies. JSC NITEC**
 
-**That Other Job You Had**
-
-Also with a short description.
-
+Director of Network Department. Lead all team and organize Data Center 
+accessability, achieve required SLA and KPI of all services.
+	* Cisco ASA/NEXUS/CATALYST6k/JunOS
+	* BGP/OSPF/MPLS
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Implementation 4G netowrks in Kazakhstan (Almaty & Astana) 
+:   Maintain and configure network devices.
+ 	* MPLS/BGP/IS-IS/L3VPN
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
+Programming Language
+I would like emphasis here that I am not a programmer by my professional 
+approach. I am learning programs listed below jast myself. I think that 
+Network and System engineering is need some programming skills. Hope become 
+devOPS Expert. 
+:   **Go-Lang:** all foundation basic knowladge. 
+    content to my lessons:
+:   **JS: ** have finished udemy cource by Angela Yu. Got Certrificate. 
+    Lesson examples:
+	* https://unsmoker.github.io/cv/
+	* https://unsmoker.github.io/webapp/
+:  **Html/CSS**
+	* https://www.codecademy.com/users/khassangaligapparov/achievements
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
 
 * Human Languages:
+	
+     * English (technical)
+     * Khazakh (native)
+     * Russian (free)
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
