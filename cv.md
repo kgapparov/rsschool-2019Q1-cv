@@ -52,7 +52,7 @@ Network and System engineering is need some programming skills. Hope become
 devOPS Expert. 
 :   **Go-Lang:** all foundation basic knowladge. 
 
-:   **JS: ** have finished udemy cource by Angela Yu. Got Certrificate. 
+:   **JS:** have finished udemy cource by Angela Yu. Got Certrificate. 
     Lesson examples:
 	* https://unsmoker.github.io/cv/
 	* https://unsmoker.github.io/webapp/
