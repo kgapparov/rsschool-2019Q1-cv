@@ -51,7 +51,7 @@ approach. I am learning programs listed below jast myself. I think that
 Network and System engineering is need some programming skills. Hope become 
 devOPS Expert. 
 :   **Go-Lang:** all foundation basic knowladge. 
-    content to my lessons:
+
 :   **JS: ** have finished udemy cource by Angela Yu. Got Certrificate. 
     Lesson examples:
 	* https://unsmoker.github.io/cv/
