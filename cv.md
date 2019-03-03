@@ -39,11 +39,13 @@ Technical Experience
 --------------------
 
 Implementation 4G netowrks in Kazakhstan (Almaty & Astana) 
-:   Maintain and configure network devices.
+   Maintain and configure network devices.
  	* MPLS/BGP/IS-IS/L3VPN
 
 
 Programming Language
+--------------------
+
 I would like emphasis here that I am not a programmer by my professional 
 approach. I am learning programs listed below jast myself. I think that 
 Network and System engineering is need some programming skills. Hope become 
