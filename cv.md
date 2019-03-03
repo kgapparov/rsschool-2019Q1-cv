@@ -59,7 +59,7 @@ devOPS Expert.
 :  **Html/CSS**
 	* https://www.codecademy.com/users/khassangaligapparov/achievements
 
-Extra Section, Call it Whatever You Want
+Additional Information 
 ----------------------------------------
 
 * Human Languages:
