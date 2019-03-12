@@ -42,7 +42,8 @@ Technical Experience
 --------------------
 
 Implementation 4G netowrks in Kazakhstan (Almaty & Astana)
-   Maintain and configure network devices.
+
+  * Maintain and configure network devices.
  	* MPLS/BGP/IS-IS/L3VPN
 
 
@@ -54,13 +55,13 @@ approach. I am learning programs listed below jast myself. I think that
 Network and System engineering is need some programming skills. Hope become
 devOPS Expert.
 
-:   **Go-Lang:** all foundation basic knowladge.
-:   **JS:** have finished udemy cource by Angela Yu. Got Certrificate.
+  * **Go-Lang:** all foundation basic knowladge.
+  *  **JS:** have finished udemy cource by Angela Yu. Got Certrificate.
     Lesson examples:
-	* https://unsmoker.github.io/cv/
-	* https://unsmoker.github.io/webapp/
-:  **Html/CSS**
-	* https://www.codecademy.com/users/khassangaligapparov/achievements
+	   * https://unsmoker.github.io/cv/
+	   * https://unsmoker.github.io/webapp/
+  * **Html/CSS**
+	   * https://www.codecademy.com/users/khassangaligapparov/achievements
 
 Additional Information
 ----------------------------------------
