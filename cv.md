@@ -37,7 +37,7 @@ accessability, achieve required SLA and KPI of all services.
 
   * Cisco ASA/NEXUS/CATALYST6k/JunOS
   * BGP/OSPF/MPLS
-  
+
 Technical Experience
 --------------------
 
@@ -53,8 +53,8 @@ I would like emphasis here that I am not a programmer by my professional
 approach. I am learning programs listed below jast myself. I think that
 Network and System engineering is need some programming skills. Hope become
 devOPS Expert.
-:   **Go-Lang:** all foundation basic knowladge.
 
+:   **Go-Lang:** all foundation basic knowladge.
 :   **JS:** have finished udemy cource by Angela Yu. Got Certrificate.
     Lesson examples:
 	* https://unsmoker.github.io/cv/
