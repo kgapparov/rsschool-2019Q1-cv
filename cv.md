@@ -1,12 +1,10 @@
 Khassangali Gapparov
 ============
------------
-
+___
 Kasazkhstan Astana 10000                   www.facebook.com/hasangaly.gapparov  
 Mobile: +7 778 184 66 66                                   hasangaly@gmail.com  
 linkedin: www.linkedin.com/in/khassangali                      skype: unsmoker  
-
-------------
+___
 Education
 ---------
 
