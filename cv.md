@@ -1,10 +1,9 @@
 Khassangali Gapparov
 ============
 
--------------------     ----------------------------
-Address: Kasazkhstan Astana 10000
-Mobile: hasangaly@gmail.com
-linkedin: www.linkedin.com/in/khassangali
+Address: Kasazkhstan Astana 10000  
+Mobile: hasangaly@gmail.com  
+linkedin: www.linkedin.com/in/khassangali  
 
 Education
 ---------
