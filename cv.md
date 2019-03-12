@@ -1,24 +1,19 @@
 Khassangali Gapparov
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+___
+Kasazkhstan Astana 10000                   www.facebook.com/hasangaly.gapparov  
+Mobile: +7 778 184 66 66                                   hasangaly@gmail.com  
+linkedin: www.linkedin.com/in/khassangali                      skype: unsmoker  
+___
 
-___
-:Kasazkhstan Astana 10000                   www.facebook.com/hasangaly.gapparov:  
-:Mobile: +7 778 184 66 66                                   hasangaly@gmail.com:  
-:linkedin: www.linkedin.com/in/khassangali                      skype: unsmoker:  
-___
 Education
 ---------
 
 2003-2014
 :   **Security Engineer**; Almaty University of Energy and Communication (Almaty)
 
-    *Organization and Integration Information security systems*
+    ***Organization and Integration Information security systems***
 
 
 Experience
@@ -39,8 +34,10 @@ all services with companies business models.
 
 Director of Network Department. Lead all team and organize Data Center
 accessability, achieve required SLA and KPI of all services.
-	* Cisco ASA/NEXUS/CATALYST6k/JunOS
-	* BGP/OSPF/MPLS
+
+  * Cisco ASA/NEXUS/CATALYST6k/JunOS
+  * BGP/OSPF/MPLS
+  
 Technical Experience
 --------------------
 
