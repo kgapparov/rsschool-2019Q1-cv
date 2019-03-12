@@ -11,7 +11,7 @@ Education
 ---------
 
 2003-2014
-   **Security Engineer**; Almaty University of Energy and Communication (Almaty)
+   **Security Engineer**; Almaty University of Energy and Communication (Almaty)  
    ***Organization and Integration Information security systems***
 
 
